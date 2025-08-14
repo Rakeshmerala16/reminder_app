@@ -1,6 +1,7 @@
 # Reminder App - Flutter 
 
-<img src="Screenshot.png" alt="Reminder app interface showing dropdown selectors for day, time and activities with modern purple theme" width="100%"/>
+<img src="assets/Screenshot.png" alt="Reminder app UI showing dropdowns and purple theme" width="100%"/>
+
 
 A simple daily reminder application built with Flutter that helps users schedule essential activities throughout their day.
 
